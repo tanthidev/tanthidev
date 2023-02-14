@@ -13,7 +13,6 @@
 - :earth_asia: I'm living now in **District 7, Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding, know JavaScript language. Now I'm focus on learning Web Development.
 - :medal_sports: I'm interested in coding, playing game and football
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
