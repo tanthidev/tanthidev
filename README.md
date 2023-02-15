@@ -8,7 +8,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My full name is **Lê Nguyễn Tấn Thi** <img src="https://github.com/tanthidev/tanthidev/blob/main/Images/myAvatar.JPG" width="200" align="right"/>
-- :school: I'm currently 3rd year student at **Ton Duc Thang University**
+- :school: I'm 3rd year student at **Ton Duc Thang University**
 - :books: My major is **Computer Science**
 - :earth_asia: I'm living now in **District 7, Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding, know JavaScript language. Now I'm focus on learning Web Development.
