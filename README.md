@@ -39,11 +39,19 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Commit Activity
+
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanthidev&layout=compact&show_icon=true&theme=algolia" alt="tanthidev"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tanthidev&layout=compact&show_icon=true&theme=algolia" alt="tanthidev-stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanthidev&theme=algolia&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Tan Thi's Commit Activity Graph" />
 </div>
+
+<br>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanthidev&layout=compact&show_icon=true&theme=algolia" alt="tanthidev"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tanthidev&layout=compact&show_icon=true&theme=algolia" alt="tanthidev-stats"/>
+</div>
+
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tanthidev&theme=algolia&background=0d1117&hide_border=true" />
 </div>
