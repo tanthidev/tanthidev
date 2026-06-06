@@ -39,19 +39,11 @@
 
 <br>
 
-## 📊 GitHub Stats & Contribution History
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanthidev&theme=github_dark" width="100%" alt="Tan Thi's Contribution Grid" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanthidev&layout=compact&show_icon=true&theme=algolia" alt="tanthidev"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tanthidev&layout=compact&show_icon=true&theme=algolia" alt="tanthidev-stats"/>
 </div>
-
-<br>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanthidev&layout=compact&show_icon=true&theme=algolia" alt="tanthidev"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tanthidev&layout=compact&show_icon=true&theme=algolia" alt="tanthidev-stats"/>
-</div>
-
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tanthidev&theme=algolia&background=0d1117&hide_border=true" />
 </div>
