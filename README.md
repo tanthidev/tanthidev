@@ -39,10 +39,10 @@
 
 <br>
 
-## 📊 GitHub Stats & Commit Activity
+## 📊 GitHub Stats & Contribution History
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanthidev&theme=algolia&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Tan Thi's Commit Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanthidev&theme=github_dark" width="100%" alt="Tan Thi's Contribution Grid" />
 </div>
 
 <br>
