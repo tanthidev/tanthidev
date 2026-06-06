@@ -6,11 +6,15 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
+<p align="left">
+  <img src="https://github.com/tanthidev/tanthidev/blob/main/Images/myAvatar.JPG" width="200" align="right" style="border-radius: 50%; margin-left: 20px;" alt="Tan Thi's Avatar"/>
+
 - 💻 I am a **Full-Stack & Automation Developer** with a passion for building independent SaaS products and game server scripts.
 - 🚀 Founder & Lead Developer of **CypherSoft Store** (`cyphersoft.store`), a fully automated digital storefront serving over 3,400+ users.
 - 🛠️ Specialized in **Computer Vision (OpenCV)** for automation, real-time image processing, multi-threading, and **Lua game scripting** (FiveM/GTA V).
-- ⚙️ Experienced in full-stack system architecture, automated billing integrations (VietQR, Crypto), and Linux VPS management.
+- ⚙️ Experienced in full-stack system architecture, automated billing integrations (VietQR), and Linux VPS management.
 - 📍 Living in **Chau Duc, Ba Ria Vung Tau, Viet Nam**
+</p>
 
 <br>
 
