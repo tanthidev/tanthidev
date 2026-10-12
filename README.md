@@ -21,7 +21,7 @@
 
 <img
   src="https://github.com/tanthidev/tanthidev/blob/0ef96f0adc05831937a5e2e93678065ccf9d1848/Images/avatar.png"
-  width="180"
+  width="300"
   align="right"
   alt="Thi Le"
 />
