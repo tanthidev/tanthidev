@@ -20,7 +20,7 @@
 ## About me
 
 <img
-  src="https://github.com/tanthidev/tanthidev/blob/main/Images/myAvatar.JPG"
+  src="https://www.tanthide.space/images/avatar.png"
   width="180"
   align="right"
   alt="Thi Le"
