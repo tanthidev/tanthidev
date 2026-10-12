@@ -35,7 +35,6 @@ I enjoy turning complex ideas into practical digital products, from automation t
 - Built full-stack systems with automated payments, license activation, webhook handling, and user support workflows.
 - Developed and operated **Cypher City**, a FiveM/GTA V roleplay server with custom server-side systems.
 - Previously supported technology teaching and learning as a teaching assistant and instructor.
-- Currently studying Information Technology at **Ba Ria - Vung Tau College Of Technology**.
 
 <br clear="right" />
 
